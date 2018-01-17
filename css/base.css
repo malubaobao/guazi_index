@@ -1,0 +1,36 @@
+body{
+	margin:0;
+	padding:0;
+	border:0;
+	font:YaHei,arial,helvetica,sans-serif;
+	background:#f5f5f5;
+
+}
+ul,li,dd,dt,dl{
+	list-style:none;
+}
+u,i,ul,li,dd,dt,dl,h1,h2,h3,h3,h4,h5,h6,p,span{
+	margin:0;
+	padding:0;
+	outline:0;
+	border:0;
+}
+h4{
+	font-size:16px;
+	color:#666;
+}
+a{
+	font-size:14px;
+	color:#495056;
+	text-decoration:none;
+	cursor:pointer;
+}
+a:hover{
+	color:#22ac38;
+}
+img{
+	vertical-align:top;
+}
+.clear{
+	clear:both;
+}
